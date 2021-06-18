@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\bin\Debug\metodo_virtual.exe.config
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\bin\Debug\metodo_virtual.exe
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\bin\Debug\metodo_virtual.pdb
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\obj\Debug\metodo_virtual.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\obj\Debug\metodo_virtual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\obj\Debug\metodo_virtual.exe
+C:\Users\Admin\source\repos\metodo_virtual\metodo_virtual\obj\Debug\metodo_virtual.pdb
